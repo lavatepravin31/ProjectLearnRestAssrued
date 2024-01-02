@@ -101,6 +101,8 @@ public class PLAYLIST_REUSABLE_CALL {
 			int stscode = response.statusCode();
 			
 			Assert.assertEquals(stscode, 200);
+			
+			System.out.println("test for new commit -jenkins");
 	 }
 	@Story("SPS-04- resgression -not authrozied test case")
 	@Description("valiated negetive test  data")
