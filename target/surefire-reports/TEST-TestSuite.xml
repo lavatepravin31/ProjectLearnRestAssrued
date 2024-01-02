@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.594" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="10.922" tests="4" errors="0" skipped="0" failures="0">
   <properties>
-    <property name="java.specification.version" value="20"/>
+    <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.class.path" value="C:\Users\pravi\eclipse-workspace\Project_learn\target\test-classes;C:\Users\pravi\eclipse-workspace\Project_learn\target\classes;C:\Users\pravi\.m2\repository\io\rest-assured\rest-assured\5.3.1\rest-assured-5.3.1.jar;C:\Users\pravi\.m2\repository\org\apache\groovy\groovy\4.0.11\groovy-4.0.11.jar;C:\Users\pravi\.m2\repository\org\apache\groovy\groovy-xml\4.0.11\groovy-xml-4.0.11.jar;C:\Users\pravi\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\pravi\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\pravi\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\pravi\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\pravi\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\pravi\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\pravi\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\pravi\.m2\repository\io\rest-assured\json-path\5.3.1\json-path-5.3.1.jar;C:\Users\pravi\.m2\repository\org\apache\groovy\groovy-json\4.0.11\groovy-json-4.0.11.jar;C:\Users\pravi\.m2\repository\io\rest-assured\rest-assured-common\5.3.1\rest-assured-common-5.3.1.jar;C:\Users\pravi\.m2\repository\io\rest-assured\xml-path\5.3.1\xml-path-5.3.1.jar;C:\Users\pravi\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\pravi\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\pravi\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\pravi\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;C:\Users\pravi\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\pravi\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\pravi\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\pravi\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\pravi\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.15.2\jackson-databind-2.15.2.jar;C:\Users\pravi\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar;C:\Users\pravi\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.2\jackson-annotations-2.15.2.jar;C:\Users\pravi\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-testng\2.23.0\allure-testng-2.23.0.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-java-commons\2.23.0\allure-java-commons-2.23.0.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-model\2.23.0\allure-model-2.23.0.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-test-filter\2.23.0\allure-test-filter-2.23.0.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-rest-assured\2.23.0\allure-rest-assured-2.23.0.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-attachments\2.23.0\allure-attachments-2.23.0.jar;C:\Users\pravi\.m2\repository\org\freemarker\freemarker\2.3.31\freemarker-2.3.31.jar;"/>
@@ -11,19 +11,19 @@
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="user.timezone" value="Asia/Calcutta"/>
     <property name="os.name" value="Windows 11"/>
-    <property name="java.vm.specification.version" value="20"/>
+    <property name="java.vm.specification.version" value="21"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-20\bin"/>
-    <property name="sun.java.command" value="C:\Users\pravi\AppData\Local\Temp\surefire13039914142365096478\surefirebooter-20230819212625677_3.jar C:\Users\pravi\AppData\Local\Temp\surefire13039914142365096478 2023-08-19T21-26-25_486-jvmRun1 surefire-20230819212625677_1tmp surefire_0-20230819212625677_2tmp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+    <property name="sun.java.command" value="C:\Users\pravi\AppData\Local\Temp\surefire7196561391975773183\surefirebooter-20231229220514017_3.jar C:\Users\pravi\AppData\Local\Temp\surefire7196561391975773183 2023-12-29T22-05-13_836-jvmRun1 surefire-20231229220514017_1tmp surefire_0-20231229220514017_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\pravi\eclipse-workspace\Project_learn\target\test-classes;C:\Users\pravi\eclipse-workspace\Project_learn\target\classes;C:\Users\pravi\.m2\repository\io\rest-assured\rest-assured\5.3.1\rest-assured-5.3.1.jar;C:\Users\pravi\.m2\repository\org\apache\groovy\groovy\4.0.11\groovy-4.0.11.jar;C:\Users\pravi\.m2\repository\org\apache\groovy\groovy-xml\4.0.11\groovy-xml-4.0.11.jar;C:\Users\pravi\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\pravi\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\pravi\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\pravi\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\pravi\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\pravi\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\pravi\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\pravi\.m2\repository\io\rest-assured\json-path\5.3.1\json-path-5.3.1.jar;C:\Users\pravi\.m2\repository\org\apache\groovy\groovy-json\4.0.11\groovy-json-4.0.11.jar;C:\Users\pravi\.m2\repository\io\rest-assured\rest-assured-common\5.3.1\rest-assured-common-5.3.1.jar;C:\Users\pravi\.m2\repository\io\rest-assured\xml-path\5.3.1\xml-path-5.3.1.jar;C:\Users\pravi\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\pravi\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\pravi\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\pravi\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;C:\Users\pravi\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\pravi\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\pravi\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\pravi\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\pravi\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.15.2\jackson-databind-2.15.2.jar;C:\Users\pravi\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar;C:\Users\pravi\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.2\jackson-annotations-2.15.2.jar;C:\Users\pravi\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-testng\2.23.0\allure-testng-2.23.0.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-java-commons\2.23.0\allure-java-commons-2.23.0.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-model\2.23.0\allure-model-2.23.0.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-test-filter\2.23.0\allure-test-filter-2.23.0.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-rest-assured\2.23.0\allure-rest-assured-2.23.0.jar;C:\Users\pravi\.m2\repository\io\qameta\allure\allure-attachments\2.23.0\allure-attachments-2.23.0.jar;C:\Users\pravi\.m2\repository\org\freemarker\freemarker\2.3.31\freemarker-2.3.31.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\pravi"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.version.date" value="2023-07-18"/>
-    <property name="java.home" value="C:\Program Files\Java\jdk-20"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
     <property name="file.separator" value="\"/>
     <property name="basedir" value="C:\Users\pravi\eclipse-workspace\Project_learn"/>
     <property name="style.color" value="always"/>
@@ -31,10 +31,10 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\pravi\AppData\Local\Temp\surefire13039914142365096478\surefirebooter-20230819212625677_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\pravi\AppData\Local\Temp\surefire7196561391975773183\surefirebooter-20231229220514017_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="java.runtime.version" value="20.0.2+9-78"/>
+    <property name="java.runtime.version" value="21.0.1+12-LTS-29"/>
     <property name="user.name" value="pravi"/>
     <property name="stdout.encoding" value="Cp1252"/>
     <property name="path.separator" value=";"/>
@@ -45,21 +45,21 @@
     <property name="localRepository" value="C:\Users\pravi\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\pravi\AppData\Local\Temp\"/>
-    <property name="java.version" value="20.0.2"/>
+    <property name="java.version" value="21.0.1"/>
     <property name="user.dir" value="C:\Users\pravi\eclipse-workspace\Project_learn"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-20\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-18.0.2\bin;C:\Program Files\apache-maven-3.9.4\bin;C:\Users\pravi\scoop\shims;C:\Users\pravi\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\apache-maven-3.9.4\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11;C:\Program Files\Java\jdk-11\bin;C:\Users\pravi\scoop\shims;C:\Users\pravi\AppData\Local\Microsoft\WindowsApps;C:\Users\pravi\AppData\Roaming\npm;C:\Users\pravi\AppData\Local\Programs\Microsoft VS Code\bin;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="java.vm.version" value="20.0.2+9-78"/>
+    <property name="java.vm.version" value="21.0.1+12-LTS-29"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="java.class.version" value="64.0"/>
+    <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="CreatePlaylist" classname="com.spotify.test.PLAYLIST_REUSABLE_CALL" time="5.755">
+  <testcase name="CreatePlaylist" classname="com.spotify.test.PLAYLIST_REUSABLE_CALL" time="7.72">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://api.spotify.com/v1/users/31zth34d7jud5yno2bg2tdsrsp64/playlists
 Proxy:			<none>
@@ -67,7 +67,7 @@ Request params:	<none>
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
-Headers:		Authorization=Bearer BQBDwi5Sm-9Cjc8xxreFSCevG6xI1LlfEkkRALzW3W_9k7SORxb47H7PUJEubTMnlT4JycX9Jp4p40u_RsDCAiQqOKL0iyepCtwpAzLRx_tOPnxnKQuvOpppD-7IF-fHvW_kjAapW1UGbvpQanSgAu-uvhOYxAs5HLUmYbGE1OzqwbBQvDDS3OBtYDm_lio0JpqlwceJwstiwsp8QHzBaT0n-17bUG0ZFmlOfWefPVcsnoAiYk6uq6Ysy9KIiEp9-VOn94LuRCKX5u50
+Headers:		Authorization=Bearer BQDTAdiCHgSduVefh4vah4PgfD1xWA4tYi6lNaBRvBRrp467AzuqnuMCAvk8Wf7tYHcMWL6y9jnVfBiswC4VBH2mYyIKRNGpkciVtP201l7pyuc4ssichZg_j2qG_P0GPRIs7nVQ_1txpkp5_B0utxJMHJChtHWNG1meMgZjvlG0dVK6ovs8efMolMis2rEbsyA8RdveTrsyInqvwMidwKcn-0LX7WJW3yQLGFR4fCL_Gh26aV1ME099u6Nx17FAL06tEqQoI_nNhrB-
 				Accept=*/*
 				Content-Type=application/json
 Cookies:		<none>
@@ -81,7 +81,7 @@ Body:
 HTTP/1.1 201 Created
 content-type: application/json; charset=utf-8
 cache-control: private, max-age=0
-location: https://api.spotify.com/v1/playlists/05mFp0OVnGlmOzpLbbXnuR
+location: https://api.spotify.com/v1/playlists/1X3abIRdyDr2kRMwFezKbL
 x-robots-tag: noindex, nofollow
 access-control-allow-origin: *
 access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
@@ -91,7 +91,7 @@ access-control-max-age: 604800
 content-encoding: gzip
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
-date: Sat, 19 Aug 2023 15:56:38 GMT
+date: Fri, 29 Dec 2023 16:35:27 GMT
 server: envoy
 Via: HTTP/2 edgeproxy, 1.1 google
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
@@ -101,14 +101,14 @@ Transfer-Encoding: chunked
     "collaborative": false,
     "description": "content new 3 new change for allure test with req-res data",
     "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/05mFp0OVnGlmOzpLbbXnuR"
+        "spotify": "https://open.spotify.com/playlist/1X3abIRdyDr2kRMwFezKbL"
     },
     "followers": {
         "href": null,
         "total": 0
     },
-    "href": "https://api.spotify.com/v1/playlists/05mFp0OVnGlmOzpLbbXnuR",
-    "id": "05mFp0OVnGlmOzpLbbXnuR",
+    "href": "https://api.spotify.com/v1/playlists/1X3abIRdyDr2kRMwFezKbL",
+    "id": "1X3abIRdyDr2kRMwFezKbL",
     "images": [
         
     ],
@@ -125,9 +125,9 @@ Transfer-Encoding: chunked
     },
     "primary_color": null,
     "public": false,
-    "snapshot_id": "MSxlMmQ4NGQzYzFlZTdjNTFiNDA0ZDU0MTQ4OWZhMjhjYjU0M2ExZmUz",
+    "snapshot_id": "MSw0OTgyNTQ1ZDdlNzZmMGE3N2JjNjg3ZjdmNzhiZWI1YzI3NDI5NDc0",
     "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/05mFp0OVnGlmOzpLbbXnuR/tracks",
+        "href": "https://api.spotify.com/v1/playlists/1X3abIRdyDr2kRMwFezKbL/tracks",
         "items": [
             
         ],
@@ -138,7 +138,7 @@ Transfer-Encoding: chunked
         "total": 0
     },
     "type": "playlist",
-    "uri": "spotify:playlist:05mFp0OVnGlmOzpLbbXnuR"
+    "uri": "spotify:playlist:1X3abIRdyDr2kRMwFezKbL"
 }
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
@@ -146,15 +146,15 @@ SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="GET_api_playlist" classname="com.spotify.test.PLAYLIST_REUSABLE_CALL" time="0.5">
+  <testcase name="GET_api_playlist" classname="com.spotify.test.PLAYLIST_REUSABLE_CALL" time="0.523">
     <system-out><![CDATA[Request method:	GET
-Request URI:	https://api.spotify.com/v1/playlists/05mFp0OVnGlmOzpLbbXnuR
+Request URI:	https://api.spotify.com/v1/playlists/1X3abIRdyDr2kRMwFezKbL
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
-Path params:	pID=05mFp0OVnGlmOzpLbbXnuR
-Headers:		Authorization=Bearer BQAJcsPu_Gz30wCu-ecYK_SOJkPKVzIAuU58TYQ1IDydj7wRmbdkHk1ypC6HieCAgPCIUfsouAVLPTLALpVVHguL5OU5E9vkYXaloxSxmTiLPnYNUgq9AH1apIej26Zttyz0Bj3ZuUZRVzRWk0SRsIdSglA-7Ur1wtXq6J8LmEnCIP57tpCWbCQk-ux_twK5x2QcZ0MuswYiFFg2p14KtCJ-yvwq4JbYyO44cr3NmZutJS-YHupP-qOcsPA9uHTc93DMwl6Leg-pTR_i
+Path params:	pID=1X3abIRdyDr2kRMwFezKbL
+Headers:		Authorization=Bearer BQAW_HEnNCZnzxfR_Om7urDBlvsrp_xCxyADqJrf46EW7dG2Aoq5vU4f21Zm4XvQ3ujDpUh_tpYw_5x_TMSRL9VyOkUGFjtA2T-vJB0P5ncS88MT2hmN1BvxLMPd-YUWNq1oRuD-zeB8XAp3iRPuq7fmiY26Lb4s65ntEMjuuFgHmbh87YiPzI_znuNyMTPCQIl1Zth8T-AOoEEvUaqMPkUexC3u-ipcEZz-z0e4Hfq9B_FTkgyjoCaG0S_JrMHgjStQVP0JE7_fzGA4
 				Accept=*/*
 				Content-Type=application/json
 Cookies:		<none>
@@ -163,7 +163,7 @@ Body:			<none>
 HTTP/1.1 200 OK
 content-type: application/json; charset=utf-8
 cache-control: public, max-age=0
-etag: "MC-Ijc3OTlmYWNhNWFlYWM3N2I5NTM2YmQ2MWVlZTNhMmJmIg=="
+etag: "MC-IjgwOTUwMTNjODY2ZmI3NzBjNTg3MTAzMDA5MzcwZmE2Ig=="
 x-robots-tag: noindex, nofollow
 access-control-allow-origin: *
 access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
@@ -173,7 +173,7 @@ access-control-max-age: 604800
 content-encoding: gzip
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
-date: Sat, 19 Aug 2023 15:56:38 GMT
+date: Fri, 29 Dec 2023 16:35:28 GMT
 server: envoy
 Via: HTTP/2 edgeproxy, 1.1 google
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
@@ -181,59 +181,57 @@ Transfer-Encoding: chunked
 
 {
     "collaborative": false,
-    "description": "content new 3 new change for allure test with req-res data",
     "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/05mFp0OVnGlmOzpLbbXnuR"
+        "spotify": "https://open.spotify.com/playlist/1X3abIRdyDr2kRMwFezKbL"
     },
     "followers": {
         "href": null,
         "total": 0
     },
-    "href": "https://api.spotify.com/v1/playlists/05mFp0OVnGlmOzpLbbXnuR",
-    "id": "05mFp0OVnGlmOzpLbbXnuR",
-    "images": [
-        
-    ],
+    "href": "https://api.spotify.com/v1/playlists/1X3abIRdyDr2kRMwFezKbL",
+    "id": "1X3abIRdyDr2kRMwFezKbL",
+    "images": null,
+    "primary_color": null,
     "name": "16 aug new test 3 new change for allure test with req-res data",
+    "description": "content new 3 new change for allure test with req-res data",
+    "type": "playlist",
+    "uri": "spotify:playlist:1X3abIRdyDr2kRMwFezKbL",
     "owner": {
-        "display_name": "Pravin Lavate",
-        "external_urls": {
-            "spotify": "https://open.spotify.com/user/31zth34d7jud5yno2bg2tdsrsp64"
-        },
         "href": "https://api.spotify.com/v1/users/31zth34d7jud5yno2bg2tdsrsp64",
         "id": "31zth34d7jud5yno2bg2tdsrsp64",
         "type": "user",
-        "uri": "spotify:user:31zth34d7jud5yno2bg2tdsrsp64"
+        "uri": "spotify:user:31zth34d7jud5yno2bg2tdsrsp64",
+        "display_name": "Pravin Lavate",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/user/31zth34d7jud5yno2bg2tdsrsp64"
+        }
     },
-    "primary_color": null,
-    "public": false,
-    "snapshot_id": "Miw4NmEwNGQ2M2NhNjBkYTdjMDM4ODYyNTE4Mzc5N2NlNmNiYzZlOGRl",
+    "public": true,
+    "snapshot_id": "MixhY2ZlMWI3MjhlYmVlMjRjMGUyMDg3NjA5NjA0N2ExZmM2YTEyNjA1",
     "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/05mFp0OVnGlmOzpLbbXnuR/tracks?offset=0&limit=100",
-        "items": [
-            
-        ],
-        "limit": 100,
+        "limit": 0,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 0
-    },
-    "type": "playlist",
-    "uri": "spotify:playlist:05mFp0OVnGlmOzpLbbXnuR"
+        "href": "https://api.spotify.com/v1/playlists/1X3abIRdyDr2kRMwFezKbL/tracks?offset=0&limit=0",
+        "total": 0,
+        "items": [
+            
+        ]
+    }
 }
 content new 3 new change for allure test with req-res data
 ]]></system-out>
   </testcase>
-  <testcase name="put_method" classname="com.spotify.test.PLAYLIST_REUSABLE_CALL" time="0.546">
+  <testcase name="put_method" classname="com.spotify.test.PLAYLIST_REUSABLE_CALL" time="0.482">
     <system-out><![CDATA[Request method:	PUT
-Request URI:	https://api.spotify.com/v1/playlists/05mFp0OVnGlmOzpLbbXnuR
+Request URI:	https://api.spotify.com/v1/playlists/1X3abIRdyDr2kRMwFezKbL
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
-Headers:		Authorization=Bearer BQBdRrZcwkvof6ao5D48fv1JjaEEDDvnM1DmvxpV2QTFsrIeVU9qZxzPZwzSqwZQeG0jCxxhP9jbH7u90Xk-AoPIzHEhR2dLrYKWIJENAnGXQi3l3Sjcx3P89-pPV5rVtW3nP4bjAtgLwLa1wYs0vsyDg1CtKa_gadX3wzG4vUoivyLXytf1Nj0ZsxaBStAW2SX8he3gVSJGhhjQnFerhVydgwCzy2586OOpD4ikKwA9RoO_Yw1a5lDsuTytiVA-S-uG4n9sl1R5qycj
+Headers:		Authorization=Bearer BQAH_MGH2lzfP4LZ6NeH0BLra88L7TfUYxg5aTk8SWSjRyNIzhlBRBc4th-N4NPA812I4i6AidUvddHey6vyMzz0rPYmJKIm_Zm7RmEVv8rbwmfZVllNZj0Szxs-z-ARokJHqOBi1dvgWEtbFmk7ufGDJR-9AL6AnPrvSwzZtHyCoVF0EGIRgmvvd921oUg8SUf8OVCKA2VMLwjG2t--crT_hXKQovFSD5Dti4-aJszbVjygcrn84dOPPeX3zVqvvPq50rS8CK2b9DIj
 				Accept=*/*
 				Content-Type=application/json
 Cookies:		<none>
@@ -255,13 +253,13 @@ access-control-max-age: 604800
 Content-Length: 0
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
-date: Sat, 19 Aug 2023 15:56:39 GMT
+date: Fri, 29 Dec 2023 16:35:28 GMT
 server: envoy
 Via: HTTP/2 edgeproxy, 1.1 google
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
 ]]></system-out>
   </testcase>
-  <testcase name="should_not_be_authrozied" classname="com.spotify.test.PLAYLIST_REUSABLE_CALL" time="0.195">
+  <testcase name="should_not_be_authrozied" classname="com.spotify.test.PLAYLIST_REUSABLE_CALL" time="0.199">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://api.spotify.com/v1/users/31zth34d7jud5yno2bg2tdsrsp64/playlists
 Proxy:			<none>
@@ -291,7 +289,7 @@ content-type: application/json
 content-encoding: gzip
 strict-transport-security: max-age=31536000
 x-content-type-options: nosniff
-date: Sat, 19 Aug 2023 15:56:39 GMT
+date: Fri, 29 Dec 2023 16:35:28 GMT
 server: envoy
 Via: HTTP/2 edgeproxy, 1.1 google
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
